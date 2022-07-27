@@ -1,1 +1,1 @@
-# img-to-txt
+# Deploy img-to-txt with Jenkins CI/CD
